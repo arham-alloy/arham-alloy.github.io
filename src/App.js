@@ -1,13 +1,9 @@
 import React from 'react';
-import {
-  BrowserRouter as DefaultRouter,
-  Switch,
-  Route,
-} from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 const App = () => {
   return (
-    <DefaultRouter basename={`${process.env.PUBLIC_URL}/`}>
+    <Router basename={process.env.PUBLIC_URL}>
       Hello from homepage..
       <Switch>
         <Route
@@ -24,8 +20,13 @@ const App = () => {
             return <>Test!</>;
           }}
         />
+        <Route
+          component={() => {
+            return <>404!</>;
+          }}
+        />
       </Switch>
-    </DefaultRouter>
+    </Router>
   );
 };
 
