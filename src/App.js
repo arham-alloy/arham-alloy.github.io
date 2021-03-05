@@ -16,6 +16,13 @@ const App = () => {
             return <>Hello World!</>;
           }}
         />
+        <Route
+          exact
+          path="/test"
+          component={() => {
+            return <>Test!</>;
+          }}
+        />
       </Switch>
     </DefaultRouter>
   );
