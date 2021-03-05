@@ -8,12 +8,13 @@ import {
 const App = () => {
   return (
     <DefaultRouter basename={`${process.env.PUBLIC_URL}/`}>
+      Hello from homepage..
       <Switch>
         <Route
           exact
           path="/"
           component={() => {
-            return <>Hello World!</>;
+            return <>Index!</>;
           }}
         />
         <Route
