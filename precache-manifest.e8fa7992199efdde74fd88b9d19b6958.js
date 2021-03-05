@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a2d83a1a414f6b6175743b7b16d3fe9",
+    "revision": "b13ece74b1cccc80d5af63c632e726dc",
     "url": "/arham-alloy/index.html"
   },
   {
-    "revision": "e3a2d9148db6b025289b",
+    "revision": "d53c8ee06ed9ee1d7648",
     "url": "/arham-alloy/static/css/main.c5bd1360.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/arham-alloy/static/js/2.e6dd7641.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3a2d9148db6b025289b",
-    "url": "/arham-alloy/static/js/main.6644090d.chunk.js"
+    "revision": "d53c8ee06ed9ee1d7648",
+    "url": "/arham-alloy/static/js/main.065d41c9.chunk.js"
   },
   {
     "revision": "ce96a637d4b1ad02d51f",
