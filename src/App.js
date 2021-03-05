@@ -1,9 +1,13 @@
 import React from 'react';
-import { HashRouter as DefaultRouter, Switch, Route } from 'react-router-dom';
+import {
+  BrowserRouter as DefaultRouter,
+  Switch,
+  Route,
+} from 'react-router-dom';
 
 const App = () => {
   return (
-    <DefaultRouter>
+    <DefaultRouter basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route
           exact
