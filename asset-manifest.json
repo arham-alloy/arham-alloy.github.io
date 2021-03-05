@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/arham-alloy/static/css/main.c5bd1360.chunk.css",
-    "main.js": "/arham-alloy/static/js/main.ac59473a.chunk.js",
-    "main.js.map": "/arham-alloy/static/js/main.ac59473a.chunk.js.map",
+    "main.js": "/arham-alloy/static/js/main.6644090d.chunk.js",
+    "main.js.map": "/arham-alloy/static/js/main.6644090d.chunk.js.map",
     "runtime-main.js": "/arham-alloy/static/js/runtime-main.49ff823c.js",
     "runtime-main.js.map": "/arham-alloy/static/js/runtime-main.49ff823c.js.map",
     "static/js/2.e6dd7641.chunk.js": "/arham-alloy/static/js/2.e6dd7641.chunk.js",
     "static/js/2.e6dd7641.chunk.js.map": "/arham-alloy/static/js/2.e6dd7641.chunk.js.map",
     "index.html": "/arham-alloy/index.html",
-    "precache-manifest.745d551c649c7e82fb75b46cb6e56513.js": "/arham-alloy/precache-manifest.745d551c649c7e82fb75b46cb6e56513.js",
+    "precache-manifest.43e9ac6e9ac53f1b13fc90b0ebf2be6d.js": "/arham-alloy/precache-manifest.43e9ac6e9ac53f1b13fc90b0ebf2be6d.js",
     "service-worker.js": "/arham-alloy/service-worker.js",
     "static/css/main.c5bd1360.chunk.css.map": "/arham-alloy/static/css/main.c5bd1360.chunk.css.map",
     "static/js/2.e6dd7641.chunk.js.LICENSE.txt": "/arham-alloy/static/js/2.e6dd7641.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.49ff823c.js",
     "static/js/2.e6dd7641.chunk.js",
     "static/css/main.c5bd1360.chunk.css",
-    "static/js/main.ac59473a.chunk.js"
+    "static/js/main.6644090d.chunk.js"
   ]
 }

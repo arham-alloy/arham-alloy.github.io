@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/arham-alloy/precache-manifest.745d551c649c7e82fb75b46cb6e56513.js"
+  "/arham-alloy/precache-manifest.43e9ac6e9ac53f1b13fc90b0ebf2be6d.js"
 );
 
 self.addEventListener('message', (event) => {
