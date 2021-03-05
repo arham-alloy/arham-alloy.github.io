@@ -7,7 +7,7 @@ import {
 
 const App = () => {
   return (
-    <DefaultRouter basename={process.env.PUBLIC_URL}>
+    <DefaultRouter basename={`${process.env.PUBLIC_URL}/`}>
       <Switch>
         <Route
           exact
